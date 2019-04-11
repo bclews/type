@@ -36,6 +36,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - admin
+  - CNAME
 
 # Tags
 tag_page_dir:         tag
