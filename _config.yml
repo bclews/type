@@ -37,6 +37,7 @@ exclude:
   - README.md
   - admin
   - CNAME
+  - LICENSE
 
 # Tags
 tag_page_dir:         tag
