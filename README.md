@@ -10,7 +10,6 @@ Minimal and Clean Jekyll Theme.
 * [Pages](#pages)
 * [Navigation](#navigation)
 * [Disqus Comments](#disqus-comments)
-* [Google Analytics](#google-analytics)
 * [Social Media Links](#social-media-links)
 * [Update favicon](#update-favicon)
 
@@ -151,10 +150,6 @@ That's all you need to setup Disqus from the theme side. If you get any issue re
 And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
 
 ---
-
-### Google Analytics
-
-To integrate Google Analytics, open `_includes/analytics.html`, and add your Google Analytics code.
 
 ### Social Media Links
 
