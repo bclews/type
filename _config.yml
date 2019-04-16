@@ -38,6 +38,7 @@ exclude:
   - admin
   - CNAME
   - LICENSE
+  - _pages_draft
 
 # Tags
 tag_page_dir:         tag
