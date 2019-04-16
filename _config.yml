@@ -39,6 +39,7 @@ exclude:
   - CNAME
   - LICENSE
   - _pages_draft
+  - _posts_draft
 
 # Tags
 tag_page_dir:         tag
