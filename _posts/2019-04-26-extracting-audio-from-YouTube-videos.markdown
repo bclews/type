@@ -22,3 +22,8 @@ youtube-dl --extract-audio --audio-format mp3 <video_url>
 {% endhighlight %}
 
 The [audio format options](https://github.com/ytdl-org/youtube-dl#options) are aac, flac, mp3, m4a, opus, vorbis, or wav.
+
+An example command:
+{% highlight bash %}
+youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+{% endhighlight %}
