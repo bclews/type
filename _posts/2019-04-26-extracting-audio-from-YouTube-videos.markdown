@@ -6,7 +6,7 @@ tags: [Command Line, YouTube]
 
 I recently wanted to extract the audio tracks from some YouTube videos. The [youtube-dl](https://ytdl-org.github.io/youtube-dl/) command-line application was the perfect tool for the job.
 
-[Installation](https://github.com/ytdl-org/youtube-dl#installation) on macOS was straightforward (at the time of writing, this installed version 2019.03.18):
+[Installation](https://github.com/ytdl-org/youtube-dl#installation) on macOS was straightforward (at the time of writing, this installed version 2019.04.24):
 {% highlight bash %}
 brew install youtube-dl
 {% endhighlight %}
