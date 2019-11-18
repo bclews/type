@@ -3,18 +3,18 @@ layout: post
 title: Configuring my macOS terminal.
 ---
 
-This post outlines how I recently configured a new macOS terminal. 
+I recently had to configure a new macOS terminal. This posts documents that process..
 
-## Ingredients
+## What are we installing?
 
 The following components will be installed:
 
-- [solarized](https://ethanschoonover.com/solarized/) colour scheme. 
+- [solarized](https://ethanschoonover.com/solarized/) is a colour scheme with low contrast, and reduced brightness that enhances readability and reduces eye strain.
 - [homebrew](https://brew.sh/), a package manager for macOS.
 - [zsh](https://formulae.brew.sh/formula/zsh#default), an alternative shell used instead of bash. 
 - [oh-my-zsh](https://ohmyz.sh/), a framework for managing your zsh configuration. 
 
-## Method
+## How do we install these components?
 
 ### Solarized
 
