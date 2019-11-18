@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Extracting audio from YouTube videos
-tags: [command-line, YouTube]
 ---
 
 I recently wanted to extract the audio tracks from some YouTube videos. The [youtube-dl](https://ytdl-org.github.io/youtube-dl/) command-line application was the perfect tool for the job.
