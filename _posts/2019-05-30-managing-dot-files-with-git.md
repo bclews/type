@@ -5,7 +5,7 @@ title: Managing dot files with git
 
 In [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook), [Rob Conery](https://rob.conery.io/) talks about managing *dot files* in a git repository:
 
-    Most Unix-adept developers treat their scripts and settings with the same respect as any other code: organizing it carefully and versioning it with git. For example, one of my very favorite people is Gary Bernhardt and he keeps [his dot files on Github](https://github.com/garybernhardt/dotfiles).
+> Most Unix-adept developers treat their scripts and settings with the same respect as any other code: organizing it carefully and versioning it with git. For example, one of my very favorite people is Gary Bernhardt and he keeps [his dot files on Github](https://github.com/garybernhardt/dotfiles).
 
 As a relative newcomer to shell terminals, this was a massive revelation to me... this would allow me to keep my shell on different systems in sync! 
 
