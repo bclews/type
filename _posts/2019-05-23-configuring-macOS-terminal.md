@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up my macOS terminal.
+title: Configuring my macOS terminal.
 ---
 
 This post outlines how I recently configured a new macOS terminal. 
