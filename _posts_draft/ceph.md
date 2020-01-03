@@ -8,10 +8,9 @@ Late last year, I started getting into all things [Docker](https://www.docker.co
 I started following the [Shared Storage (Ceph)](https://geek-cookbook.funkypenguin.co.nz/ha-docker-swarm/shared-storage-ceph/) recipe, but quickly realised that this recipe does not translate too well to Ubuntu 19.10. This article outlines the steps I went through to get it working.
 
 # Aim
-To get [Ceph Nautilus](https://docs.ceph.com/docs/master/releases/nautilus/) running across three [Ubuntu 19.10 (Eoan Ermine)](https://wiki.ubuntu.com/EoanErmine/ReleaseNotes) virtual machines, on the [Vultr](https://www.vultr.com/?ref=8298157) platform.
+To get [Ceph Nautilus](https://docs.ceph.com/docs/master/releases/nautilus/) running across three [Ubuntu 19.10 (Eoan Ermine)](https://wiki.ubuntu.com/EoanErmine/ReleaseNotes) virtual machines. This will all be done on the [Vultr](https://www.vultr.com/?ref=8298157) platform.
 
-
-# Server Details
+# Deploy New Ubuntu Instances
 
 Ubuntu 19.10.
 
