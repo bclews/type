@@ -4,7 +4,7 @@
 #-------------------------------------------------------------------------------------------------------------
 
 # Debian and Ubuntu based images are supported. Alpine images are not yet supported.
-FROM debian:9
+FROM debian:10
 
 # Configure apt
 ENV DEBIAN_FRONTEND=noninteractive
