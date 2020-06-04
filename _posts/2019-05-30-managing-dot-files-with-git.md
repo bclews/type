@@ -9,4 +9,4 @@ In [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbo
 
 As a relative newcomer to shell terminals, this was a massive revelation to me... this would allow me to keep my shell on different systems in sync! 
 
-So, I ended up digging into the management of dot files using git and came across this interesting tutorial: [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles). I have been using this system for a couple of months now without issue.
+So, I ended up digging into the management of dot files using git and came across this interesting tutorial: [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles). I have been using this system for a couple of months and it has been working really well.
